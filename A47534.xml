@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The knavery of astrology discover'd, in oberservations upon every month, ofthe year 1680 together with the nature of the seven planets, etc. / by Tim Tell-Troth ...</title>
+            <author>Tell-Troth, Tim.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47534</idno>
+            <idno type="STC">Wing K676</idno>
+            <idno type="STC">ESTC R5129</idno>
+            <idno type="EEBO-CITATION">13483649</idno>
+            <idno type="OCLC">ocm 13483649</idno>
+            <idno type="VID">99715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 461:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The knavery of astrology discover'd, in oberservations upon every month, ofthe year 1680 together with the nature of the seven planets, etc. / by Tim Tell-Troth ...</title>
+                  <author>Tell-Troth, Tim.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. B. and R. E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99715:1" rendition="simple:additions"/>
+            <p>THE KNAVERY OF ASTROLOGY DISCOVER'D, IN OBSERVATIONS Upon Every Month, of the Year 1680.</p>
+            <p>TOGETHER With the Nature of the Seven Planets, <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>Tim. Tell-Troth,</hi> Star-gazer to the Great <hi>MOG<g ref="char:V">Ʋ</g>L.</hi>
+            </p>
+            <l>Almanack-makers you may go Sh—</l>
+            <l>Your Prognoſtications ne're will hit.</l>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T.B.</hi> and <hi>R.E.</hi> 1680.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:99715:2"/>
+            <pb facs="tcp:99715:2"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have a mind to ſpeak to thee a word or two in ſo<g ref="char:EOLhyphen"/>ber earneſt: For though I have indulged to a little Mirth in my <hi>Obſervations,</hi> yet now I muſt deſire thee to be ſerious with me a few Minutes. If thou haſt been uſed to be a <hi>Querent</hi> in theſe matters, that is, gone to <hi>Aſtrologers</hi> to know of their <hi>Wiſdoms,</hi> when and whom thou ſhalt Marry, when thy Affairs in the world will mend; that is, when thou ſhalt more mind thy buſi<g ref="char:EOLhyphen"/>neſs, and have more wit than to ask ſuch ſimple Queſti<g ref="char:EOLhyphen"/>ons: Perhaps the buying this Pamphlet will ſave thee ſome Shillings in thy Pocket, beſides eaſing thy head of Super<g ref="char:EOLhyphen"/>ſtitious Conceits.</p>
+            <p>As to the <hi>Antiquity</hi> of <hi>Aſtrology,</hi> I cannot but ac<g ref="char:EOLhyphen"/>knowledge it exceeding great: For the firſt Founder of it, the <hi>Devil,</hi> knew how advantageous an Inſtrument it would prove to the promoting his Intereſt in the world; there<g ref="char:EOLhyphen"/>fore he would not neglect, by the hand of <hi>Aſtrology,</hi> to lead People betimes into as groſs Superſtition as might be. 'Tis ſo apt to infect with Superſtition, that the <hi>Artiſts</hi> themſelves cannot avoid it: For they cannot help, for their lives, depending more on the <hi>Tranſits</hi> or <hi>Aſpects</hi> of the <hi>Planets,</hi> than the <hi>Providence</hi> of the <hi>All-ſeeing God.</hi> How will a croſs <hi>Tranſit</hi> of <hi>Saturn</hi> or <hi>Mars</hi> make them
+<pb facs="tcp:99715:3"/>tremble, almoſt at their own Shadow? And how will a <hi>Kind Aſpect</hi> from the <hi>Fortunes</hi> give them unreaſonable aſſurance beyond meaſure? The one makes them timerous and neglective of their Affairs, the other gives them more Confidence than Diſcretion will allow.</p>
+            <p>Perhaps ſome will wonder that I fanſie rather the <hi>De<g ref="char:EOLhyphen"/>vil,</hi> than <hi>Ptolomy,</hi> to be the <hi>Author</hi> of <hi>Aſtrology:</hi> If this place were proper for ſo long a Diſcourſe, as the proof of that would bear, I would not doubt perſwading you to be of my mind. No body elſe could have put ſo many ab<g ref="char:EOLhyphen"/>ſurd Conceits into ſo good a method of Chance-medley, as to make them hit often enough to perſwade a knowing man to believe them. Therefore let me adviſe thee, have a care of indulging this fond Superſtition: Think not to know more of future things than God will ſuffer thee, or thinks fit for thee. You pretend to <hi>ask Queſtions</hi> in <hi>Jeaſt,</hi> but ſoon <hi>believe</hi> the <hi>Reſolutions</hi> in <hi>Earneſt:</hi> And why ſhouldeſt thou deſire to know thy future <hi>Fate?</hi> If it be good, comfortably expect: The ſurpriſe of a bleſſing will add to its value. If it be bad, 'twill come ſoon enough, with<g ref="char:EOLhyphen"/>out giving warning, and doubling thy Torments before<g ref="char:EOLhyphen"/>hand. I ſpeak this out of <hi>Charity</hi> to thee; for <hi>God</hi> ne<g ref="char:EOLhyphen"/>ver <hi>bleſſes</hi> thoſe that are ſo <hi>over inquiſitive</hi> in <hi>future</hi> Events. Thou haſt a <hi>Power</hi> to be <hi>Virtuous,</hi> be ſo, and thou needeſt not fear.</p>
+            <p>And now Friend, as I have taken upon me ſeriouſly to admoniſh thee, ſo I muſt (whether in jeaſt or earneſt, I leave it to thee) deſire one thing of thee by all means, that if thou ſhouldeſt chance, before I'm aware, to know who I am, what I am, or where I live, thou'lt be ſo kind as to conceal me from the knowledge of <hi>Aſtrologers:</hi> For they would preſently <hi>Erect</hi> ſuch a <hi>wicked Scheme</hi> of my <hi>Nativity,</hi> that I might loſe thy good Opinion for ever after<g ref="char:EOLhyphen"/>wards. <hi>Fare thee well.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:99715:3"/>
+            <head>The Nature of the Seven Planets.</head>
+            <div type="description">
+               <head>SATURN</head>
+               <p>WAS of a cruel Devilliſh humour while he lived upon Earth, and Aſtrologers make him ſtill as bad for all he's in Heaven. But I wonder why they would Exalt him at that rate to the ſuperior Seat in the Heavens; was it for his wickedneſs that he deſerved ſo well?</p>
+               <p>When he's well Dignified, he's pretty well pleas'd (as people indeed generally are, when every thing hap<g ref="char:EOLhyphen"/>pens to their minds) nay he's then ſuppoſed to be a very ſolid notable old man: But when ill Dignified, he's ſo ill natur'd and miſchievous, there's no bearing with it; he would out your Throat, break your neck, poyſon ye, any thing; therefore away with him, and let's ha<g ref="char:EOLhyphen"/>ſten to <hi>Jupiter.</hi>
+               </p>
+            </div>
+            <div type="description">
+               <head>JUPITER</head>
+               <p>Is thought to be as good as good may be, and has the Character of a very worthy good Gentleman, and is mightily belov'd by all; for he, they ſay, is the beſtow<g ref="char:EOLhyphen"/>er of Wealth and Riches; and for that Reaſon, more than for his goodneſs perhaps, is called the <hi>Greater For<g ref="char:EOLhyphen"/>tune:</hi> Nevertheleſs, if he is not Honour'd and Digni<g ref="char:EOLhyphen"/>fied too, as they call it, he can be as angry and vexa<g ref="char:EOLhyphen"/>tious as another.</p>
+               <p>'Tis a General Rule, that all the Planets are Ambiti<g ref="char:EOLhyphen"/>ous,
+<pb facs="tcp:99715:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:99715:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:99715:5"/>and delight in Honour; if you ſet them in the <hi>Midheaven,</hi> oh how you pleaſe them, how kind they'l be to you! But if you put 'em into Priſon, or make 'em Sick, by putting them in the 12th, or 6th, Houſe of your Figure, I aſſure you they'l prove no good Friends.</p>
+               <p>
+                  <hi>Jupiter</hi> has abundance of excellent Qualities: he'll comfort your ſtomach with the Spices he governs; he gives you no leſs than <hi>Partridge</hi> and <hi>Pheaſant</hi> for your meat, loves the Church mightily, and brings us good weather: Therefore all the Planets love him, beſides <hi>Mars.</hi>
+               </p>
+            </div>
+            <div type="description">
+               <head>MARS</head>
+               <p>Is a bold ſwaggering Huff, that deſpiſes every bo<g ref="char:EOLhyphen"/>dy beſides himſelf; and 'tis very unfortunate to meet him in a croſs humour. When he's well pleaſed with Dignities he can make an excellent Souldier, and loves War rather than Duels; but vex him once, by putting him out of his places, or disbanding him, and he'll turn <hi>Thief,</hi> and bid you ſtand; prove a hot-brain'd male content, a <hi>Knight</hi> of the <hi>Poſt;</hi> and in this angry mood he'll have at his heels a Shole of Marſhals-men, Serjeants, Bailiffs, Chymiſts, Cut-throats of all ſorts. He's as hard as <hi>Iron,</hi> governs Wolfs, Tygers, and Vul<g ref="char:EOLhyphen"/>tures; and notwithſtanding all this, is not thought to be ſo bad as <hi>Saturn.</hi> He is but the <hi>leſſer Infortune.</hi>
+               </p>
+            </div>
+            <div type="description">
+               <head>The S<g ref="char:V">Ʋ</g>N</head>
+               <p>Signifies Majeſty, Kings and Emperours, as well as Nobles, and ſhould therefore be ſpoken of with care and reveronce. 'Tis to the Sun's real Influences, by a kind and gentle heat, that we owe our <hi>Spring,</hi> and all benefits of Nature. He gives life to many Creatures
+<pb n="7" facs="tcp:99715:5"/>by his ſole power. And yet for all this, Aſtrologers ſay, that if he does but chance not to ſit in his Throne with all his ſplendour and glory, if he chance to loſe ſome of the Dignities they have given him, he is then but a Cracker, a Puff, a kind of proud Coxcomb: But in troth they deſerve to be called to account for it, for ſo great a <hi>Scandalum Magnatum.</hi>
+               </p>
+            </div>
+            <div type="description">
+               <head>VENUS</head>
+               <p>Is a Nocturnal Planet, and therefore loves the works of Darkneſs; when ſhe liv'd upon Earth, 'twas in Qua<g ref="char:EOLhyphen"/>lity of a pretty little Whore; her company was ſo well lik'd of by the Aſtrologers, that they tranſlated her in<g ref="char:EOLhyphen"/>to the Heavens, and gave her the fineſt and moſt deli<g ref="char:EOLhyphen"/>cate Star our Eyes can behold. How her Profeſſion made her a Goddeſs, I cannot well tell: 'Tis certain ſhe had moſt excellent Fortune to be ſo advanced; where <hi>Mars</hi> is as obliging to her as her heart can wiſh. When ſhe is Dignified, and has her beſt Ornaments on, ſhe is contented only to make a man a merry, brisk, Pot Com<g ref="char:EOLhyphen"/>panion: but once out of her Geer, and meanly placed, ſhe produces very ſad ſcandalous Fellows, the very <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of lewdneſs and debauchery. Nevertheleſs ſhe is a <hi>Leſſer Fortune,</hi> and happy is the man to whom ſhe hap<g ref="char:EOLhyphen"/>pens to beſtow a Beam of her Goodneſs.</p>
+            </div>
+            <div type="description">
+               <head>MERCURY</head>
+               <p>Is neither Fiſh nor Fleſh, good nor bad, but accord<g ref="char:EOLhyphen"/>ing to the Company he is in. If he ſees <hi>Saturn,</hi> he's ſowre and moroſe; if <hi>Mars,</hi> he quarrels and ſwears Dam me; if <hi>Venus,</hi> he's preſently her humble Servant, and on how ſweet! he's naturally a very aiery Youth, and loves Fairs and Ordinaries, as much as <hi>Venus</hi> does a Dancing-School. Give him but the upper-hand, and
+<pb n="8" facs="tcp:99715:6"/>ſhew him Honour, and he'll talk excellently well, 'twould do one good to hear him; but if you offer to Degrade him, he'll ſet the Company a chatting as wiſely as Goſſips altogether at a Chriſtning; he then inclines people from Aſtrologers to turn down-right Conjurers; from tolerable company to turn inſufferable News<g ref="char:EOLhyphen"/>mongers, and, when the Preſs is open, wretched Pam<g ref="char:EOLhyphen"/>phleteers.</p>
+            </div>
+            <div type="description">
+               <head>The MOON</head>
+               <p>Was formerly the great Goddeſs of Conjuration, when there were ſuch things in the world, for now A<g ref="char:EOLhyphen"/>ſtrologers are no Conjurers I am ſure; yet they are ve<g ref="char:EOLhyphen"/>ry obſervant of every the leaſt motion ſhe makes, and give her ſome ſignification in every thing that happens. To tell you the truth, ſhe is a <hi>true Lady</hi> of the <hi>Times,</hi> ſhe knows not her own mind two Minutes, loves No<g ref="char:EOLhyphen"/>velties dearly, and invents new Faſhions. Sometimes ſhe ſhews her <hi>broad face,</hi> and is all in her <hi>hair;</hi> anon ſhe's all of a <hi>Black-patch,</hi> that you can ſee nothing of her <hi>Face;</hi> and will ſometimes wear the <hi>Horns</hi> her ſelf in a Frolick: For my part I would not truſt her of all Women I know; ſhe's as changeable as the Wind, a meer Jilt, I know not what to make of her, nor ſhe her ſelf. Yet ſhe ſignifies all <hi>Women,</hi> from the <hi>Queen</hi> to the <hi>Oyſter-Woman.</hi> If ſhe's ill <hi>Dignified,</hi> nothing can ſignifie worſe, a <hi>ſottiſh, drunken Woman.</hi>
+               </p>
+            </div>
+            <div type="observations">
+               <pb n="9" facs="tcp:99715:6"/>
+               <head>
+                  <hi>Obſervations on</hi> January, 1680.</head>
+               <p>AT the beginning of this Month and year, <hi>Venus,</hi> being in ſweet and kind Aſpect to <hi>Mercury,</hi> ſhould render <hi>Ladies</hi> very <hi>flexible,</hi> but grim <hi>Saturn</hi> a<g ref="char:EOLhyphen"/>bout the latter end, being in direct <hi>Oppoſition</hi> to the charming fair one, whole looks are ſaid to be <hi>fortunate</hi> to all ſhe beſtows them upon in any kind way, quite contrary to the nature of other Whores; this miſchievous <hi>Saturn,</hi> I ſay, may blaſt the hopes again of all <hi>Venus</hi>'s A<g ref="char:EOLhyphen"/>dorers, unleſs they chance to have <hi>Jupiter</hi> on their ſide, who, about the ſame time, as <hi>Saturn</hi> ſo frets and frowns, does endeavour to chear up the <hi>hot Lady</hi> by the moſt ſubmiſſive complemental <hi>Trine</hi> Addreſſes he is able to make: but poor <hi>Mercury,</hi> I pity him this Month, he is moſt ſadly afflicted indeed, <hi>Jupiter, Mars,</hi> and the <hi>Sun,</hi> conſpire againſt him; beſides he's <hi>Retrograde,</hi> and would hardly be able to ſtand, were he not in a Sign a little of his own Nature, which may ſignifie that <hi>A<g ref="char:EOLhyphen"/>ſtrologers, Thieves,</hi> and <hi>Taylors</hi> will have but very little to do; that Querents about Matrimony will now be very few; how do we know but it may be ſo omi<g ref="char:EOLhyphen"/>nous, as to tell us, that many Gentlemen, ſignified by <hi>Mercury,</hi> may now loſe a conſiderable Match at <hi>Bowls</hi> or <hi>Tennis,</hi> or there may be breaking of Pates at an <hi>Ordinary?</hi> nay perhaps that the very <hi>Art</hi> of <hi>Aſtrology</hi> ſhall begin to be ſuſpected by ſome who have been a<g ref="char:EOLunhyphen"/>long time wonderful Admirers of it.</p>
+               <list>
+                  <item>2. ⚹ ♀ ☿.</item>
+                  <item>28. ☍ ♄ ♀.</item>
+                  <item>30. <g ref="char:trine">△</g> ♃ ♀.</item>
+                  <item>2. ☿ R.</item>
+                  <item>9. Ϲ ♃ ☿.</item>
+                  <item>10. ☉ ☌ ☿.</item>
+                  <item>7. ☌ ♂ ☿.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="10" facs="tcp:99715:7"/>
+               <head>
+                  <hi>Obſervations on</hi> February, 1680.</head>
+               <p>
+                  <hi>SAturn,</hi> though he's as weak as an old man with three Legs, and commonly as frappiſh and ſurly, yet being kindly aſpected this Month by the <hi>Sun</hi>'s ex<g ref="char:EOLhyphen"/>cellent Majeſty, by <hi>Mercury</hi> pricking up his Ears again, and by his Fellow-makebate <hi>Mars,</hi> walkes the grand Paw as ſtately as any <hi>Monſieur</hi> on Horſe-back; being in <hi>Cancer,</hi> it ſometimes makes him clap his <hi>Breaſt</hi> with a ſtrained Hum, and cry ſound Boys, ſound. 'Tis ſel<g ref="char:EOLhyphen"/>dom the old man happens to be in a better humour, therefore perhaps he may make the <hi>Brick-layers</hi> and o<g ref="char:EOLhyphen"/>ther Workmen, whom he naturally ſignifies, to have one Grain of <hi>Honeſty,</hi> for a Fortnight, about the middle of this Month, which is more than 'tis poſſible they ever had ſince they learnt their Trade. Therefore, O ye, all the Lovers of Building, who will needs undo your ſelves without any manner of peradventure, hearken to my Inſtructions, make uſe of this juncture of time, perhaps you may'nt meet with the like again. <hi>One grain of honeſly in Brick-layers, and that for a fortnight!</hi>
+               </p>
+               <list>
+                  <item>♄ ♋.</item>
+                  <item>10. <g ref="char:trine">△</g> ☉ ♄.</item>
+                  <item>12. <g ref="char:trine">△</g> ♄ ♂.</item>
+                  <item>28. <g ref="char:trine">△</g> ♄ ☿.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="11" facs="tcp:99715:7"/>
+               <head>
+                  <hi>Obſervations on</hi> March. 1680.</head>
+               <p>
+                  <hi>AStrologers!</hi> a word of comfort t' ye! your Father <hi>Mercury</hi> is pleaſed, and laughs, whether at you, or for you, I matter not much. Bear up as craftily as ye are wont, ſeem to know and foretel all things: Learned <hi>Jupiter</hi> looks favourably upon you; but what then? for one word good, I can tell you two or three bad. <hi>Mars,</hi> near the middle of this Month, is in <hi>Con<g ref="char:EOLhyphen"/>junction</hi> of <hi>Mercury,</hi> which will moſt certainly make <hi>Aſtrologers</hi> at this time right <hi>Artiſts</hi> at picking o Pock<g ref="char:EOLhyphen"/>ets; nay, if a man chance to be born at this time, there's no truth in <hi>Aſtrology,</hi> if the <hi>Native</hi> does not prove ei<g ref="char:EOLhyphen"/>ther a <hi>Thief,</hi> or an <hi>Aſtrologer,</hi> or both. Again, he's <hi>Combuſt,</hi> and <hi>Saturn ſquares</hi> him; that is, his little nimble Sons will be trampled upon by Great Men, and de<g ref="char:EOLhyphen"/>ſpiſed by thoſe who know the world never ſo little. Good people, you are adviſed this Month to brew good ſtore of Drink, to make much of your ſelves, and to lie with your Wives lovingly and boldly, notwithſtanding the <hi>Conjunction</hi> of <hi>Mars</hi> and <hi>Mercury.</hi> 'Tis a good time, let me tell you: Who knows what they'l be do<g ref="char:EOLhyphen"/>ing, when your <hi>Children</hi> come to be <hi>Natives;</hi> or whe<g ref="char:EOLhyphen"/>ther they'l be playing the Rogue, playing the Fool, or not playing at all.</p>
+               <list>
+                  <item>3. ⚹ ♃ ☿.</item>
+                  <item>12. ☌ ♂ ☿.</item>
+                  <item>15. Ϲ ♄ ☿.</item>
+                  <item>19. ☉ ☌ ☿.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="12" facs="tcp:99715:8"/>
+               <head>
+                  <hi>Obſervations on</hi> April. 1680.</head>
+               <p>
+                  <hi>VEnus</hi> being now in her <hi>Exaltation</hi> in <hi>Piſces,</hi> and the ſeaſon of the Year beginning to warm her Veins, ſhe ſends forth many a ſigh for the longed <hi>Con<g ref="char:EOLhyphen"/>junction,</hi> next Month, with her Servant and Stallion <hi>Mars.</hi> But <hi>Jupiter</hi> does his beſt to ſatisfie the Extra<g ref="char:EOLhyphen"/>vagance of her Appetite, and cloſely imbraces her a<g ref="char:EOLhyphen"/>bout the Neck, kiſſing her over and over for a few days. For though <hi>Jupiter,</hi> well <hi>Dignified,</hi> ſignifies a Chaſte, Virtuous Man, yet being <hi>weak,</hi> as he is in <hi>Taurus,</hi> his <hi>weakneſs</hi> ('tis <hi>true Aſtrology,</hi> I aſſure you!) makes him the <hi>ſtronger</hi> and more <hi>rampant</hi> at a Wo<g ref="char:EOLhyphen"/>man. When <hi>Jupiter</hi> has done, <hi>Saturn</hi> takes her to task, <hi>ſquares</hi> and ſquints at her, and is very angry, he knows not why, or wherefore; but I am apt to gueſs, 'tis becauſe he's too Old to do any thing with her. Now 'tis very ſtrange by the by, that it ſhould be thus the humour of all old people, to envy the pleaſures of younger. But that they may neither deſpair them<g ref="char:EOLhyphen"/>ſelves, nor hinder other people from following the Faſhion of theſe <hi>Excellent Times,</hi> I'le tell them, that of late years there's a neat <hi>Invention,</hi> called <hi>Flogging,</hi> invented on purpoſe to pleaſure <hi>Old Fumblers,</hi> or <hi>weak Youngſters:</hi> what it is, they may eaſily learn at <hi>Betty B</hi>—'s <hi>School,</hi> or <hi>Moor-fields.</hi>
+               </p>
+               <list>
+                  <item>2. ⚹ ♃ ♀.</item>
+                  <item>17. Ϲ ♄ ♀.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="13" facs="tcp:99715:8"/>
+               <head>
+                  <hi>Obſervations on</hi> May. 1680.</head>
+               <p>NOW <hi>Venus</hi> rejoyces, for before this Month is o<g ref="char:EOLhyphen"/>ver, ſhe is to enjoy the Embraces of her dearly Beloved, Stout, and Luſty <hi>Mars.</hi> And though in<g ref="char:EOLhyphen"/>deed it does not happen, 'till toward the end, yet for the <hi>ſweet Subjects</hi> ſake, becauſe 'tis ſuch acceptable News to all <hi>Sons</hi> of <hi>Whores,</hi> I can't chooſe but begin with it. One thing is very Obſervable, that whenever the <hi>Aſtrologers,</hi> who write <hi>Ephemeris</hi>'s, and teach peo<g ref="char:EOLhyphen"/>ple to <hi>Conjure,</hi> do find <hi>Mars</hi> and <hi>Venus</hi> in <hi>Conjunction,</hi> they wo'nt let them <hi>ſeparate</hi> ſo ſoon as other Folks, but keep them a day or two longer in <hi>Conjunction</hi> than they need to do. I am afraid if the truth were known they like the ſport a little too much themſelves. The <hi>Malevo<g ref="char:EOLhyphen"/>lents</hi> look a little wiſhfully upon one another. Perhaps there may be ſome friendly Correſpondence between Rogues, and Knaves, in order to do ſome notable Miſ<g ref="char:EOLhyphen"/>chief. But the <hi>Sun</hi>'s coming into <hi>Gemini, Londons Sig<g ref="char:EOLhyphen"/>nificator,</hi> may poſſibly warrant its Shining upon this City this year, as much as it did the laſt. For it will continue in that Sign, juſt as many Days, Hours, and Minutes, as it uſes to do. <hi>Mercury</hi> can't forbear being <hi>burnt</hi> again in the Rayes of the <hi>Sun,</hi> and runs backward into the danger rather than eſcape it: which ſignifies, that ſome <hi>Aſtro<g ref="char:EOLhyphen"/>logers</hi> will be ſo bold a to expoſe their Ridiculous Con<g ref="char:EOLhyphen"/>ceits in the Eyes of the World, and before perſons of Judgment and Authority; which may prove their Ru<g ref="char:EOLhyphen"/>ine beyond hopes of recovery. For while they Sneak in holes, and corners, and only tempt thoſe unhappy Wo<g ref="char:EOLhyphen"/>men who have loſt their Sweet hearts, to come and ask when they'l return, or when they ſhall have new ones, there's no great harm. But have a care of the <hi>Sun.</hi> 'Twill <hi>Burn,</hi> if you approach too near.</p>
+               <list>
+                  <item>27. ♂ ☌ ♀.</item>
+                  <item>5. ⚹ ♄ ♂.</item>
+                  <item>☌ ☉ ☿.</item>
+                  <item>☿ R.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="14" facs="tcp:99715:9"/>
+               <head>
+                  <hi>Obſervations on</hi> June. 1680.</head>
+               <p>
+                  <hi>JUpiter, Venus,</hi> and <hi>Mercury,</hi> all in <hi>Conjunction</hi> in the beginning of <hi>Gemini,</hi> may ſignifie more than <hi>Haly,</hi> or <hi>Albumazer</hi> have thought on. Tradeſmen may leave off Cheating and Lying; Whores may a little forbear ſcouring <hi>Fleet-ſtreet</hi> and the <hi>Strand;</hi> Sluts may look cleanly; your true Coffee-men may talk Loyally and Peaceably; your Smoakers may be as wiſe as they ſeem; But Courtiers will not forſake the Ladies Compa<g ref="char:EOLhyphen"/>ny, nor Fops the Play-Houſes. That's plain.</p>
+               <p>
+                  <hi>Mars</hi> afflicting <hi>Jupiter</hi> this Month, may ſhew, That <hi>Eccleſiasticks</hi> will not be had in ſo great <hi>Veneration</hi> as they were in the times of <hi>Popery.</hi> What if ſome of them, who have uſed themſelves to Coaches a long time, ſhould be forced to try how they can walk a-foot. No leſs than ſeven <hi>Conjunctions</hi> of ſix Planets, and not one other Aſpect! You know what <hi>Conjunctions</hi> ſignifie with us: perhaps the heat of the Seaſon may incline them to <hi>ſympathiſe</hi> with us: <hi>Venus</hi> makes three of them, and would have been contented with all the reſt, if the cold<g ref="char:EOLhyphen"/>neſs of old <hi>Saturn</hi> could have pleaſed her better.</p>
+               <list>
+                  <item>2. ☌ ☿ ♀.</item>
+                  <item>3. ☌ ♃ ♀.</item>
+                  <item>11. ☌ ♂ ♃.</item>
+                  <item>12. ☌ ♀ ☿.</item>
+                  <item>23. ☌ ☉ ♄.</item>
+                  <item>28. ☌ ♄ ☿.</item>
+                  <item>☌ ♃ ☿.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="15" facs="tcp:99715:9"/>
+               <head>
+                  <hi>Obſervations on</hi> July. 1680.</head>
+               <p>I Hear Aſtrologers by this time taking me to my Task, and wondring I forgot the <hi>Moon,</hi> their chief <hi>Goddeſs,</hi> all this while. Shall I tell you then? The <hi>Moon</hi> would take up ſo much time to mind all her <hi>Motions,</hi> the <hi>Trines, Sextiles, Squares,</hi> and <hi>Oppoſitions,</hi> ſhe makes to every <hi>Planet,</hi> ſeveral times every Month, that I ſhould not have a minutes leiſure to obſerve the <hi>Addreſſes</hi> of her betters: She is ſuch a ſtrange odd Woman, that I care not how little I have to do with her; there's hardly a day ſometimes paſſes in a whole Month, but ſhe's mak<g ref="char:EOLhyphen"/>ing of Courteſies, tempting or provoking ſome of the <hi>Planets;</hi> nay I have known her ſometimes in one day have ſomething to do with every one of them: One ſhe lies with, a ſecond claps her on the Breech, a third kiſſes her, ſhe huffs a fourth, ſquints at a fifth, and de<g ref="char:EOLhyphen"/>clares open War, the utmoſt enmity, to the ſixth, and, in a few days, rings the Bells backward, ſhews her good and bad ſide to 'em all; but <hi>Aſtrologers</hi> are not of my Mind, they'll hardly ſtir abroad unleſs the <hi>Moon</hi> be in ſome <hi>good Aſpect:</hi> when ſhe beholds <hi>Jupiter</hi> or the <hi>Sun,</hi> then they'll be ſo bold as confidently to wait on <hi>Perſons</hi> of <hi>Quality.</hi>
+               </p>
+            </div>
+            <div type="observations">
+               <pb n="16" facs="tcp:99715:10"/>
+               <head>
+                  <hi>Obſervations on</hi> Auguſt, 1680.</head>
+               <p>THE <hi>Sun</hi> and <hi>Venus</hi> being by this time far advan<g ref="char:EOLhyphen"/>ced together in <hi>Leo,</hi> may be apt to make ſeveral <hi>phoud Sons</hi> of the <hi>Whore</hi> of <hi>Rome</hi> look as high above <hi>Proteſtants</hi> as they did before the <hi>Plot</hi> broke out: but before the end of this Month <hi>Jupiter</hi> comes and ſquares the <hi>Sun,</hi> which may notably foretel, that <hi>Po<g ref="char:EOLhyphen"/>piſh Eccleſiaſticks</hi> will, by an over weaning Opinion of their own Capacity in <hi>Politicks,</hi> run themſelves into ſome further prejudice with this Nation. A little be<g ref="char:EOLhyphen"/>fore the Murder of Sir <hi>Edmund bury Godfrey,</hi> there might have been ſome ſuch ill <hi>Aſpect,</hi> for they were then ſtrangely out in their <hi>Politicks,</hi> and through miſtake may prove to have blaſted the fair hopes of every <hi>Pa<g ref="char:EOLhyphen"/>piſt</hi> in this Kingdom, and hung themſelves in a ſtring, inſtead of deſtroying that <hi>Worthy Gentleman.</hi> A little before the mentioned ſquare, <hi>Saturn</hi> and <hi>Mars,</hi> the great Contrivers of Milchief, meet together to <hi>conſult,</hi> and it being in <hi>Cancer,</hi> a <hi>crabbed Sign,</hi> we have all of us rea<g ref="char:EOLhyphen"/>ſon to fear the worſt.</p>
+               <list>
+                  <item>☉ ♌.</item>
+                  <item>♀ ♌.</item>
+                  <item>28 Ϲ ♃ ☉.</item>
+                  <item>20. ☌ ♄ ♂ in ♋.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="17" facs="tcp:99715:10"/>
+               <head>
+                  <hi>Obſervations on</hi> September. 1680.</head>
+               <p>
+                  <hi>MArs</hi> and <hi>Venus</hi> meet again in a kind loving way this Month, and the <hi>Sun</hi> gets as cloſe to her, as 'tis poſſible: They are both ſuch hot Blades, that I can't warrant her from catching a <hi>Clap;</hi> only we may hope well of her ſide, becauſe ſhe's at home in <hi>Libra,</hi> in her own <hi>Houſe,</hi> where ſhe may take as much care of her ſelf as ſhe pleaſes. The <hi>Sun</hi> is in his <hi>Fali,</hi> and his <hi>Reins</hi> weak: The over-great heat of the Summer, and his many leacherous <hi>Conjunctions,</hi> may have much oc<g ref="char:EOLhyphen"/>caſioned it. 'Tis <hi>Mars</hi> that helps to ſpit Fire from <hi>Leo:</hi> Therefore I would by all means adviſe our Ladies of Pleaſure, to have a care how they beſtow themſelves about this time; for if they ſhould catch a Miſchance, they'l be apt to meet with an ill cure, by taking ſome ill <hi>Preparation</hi> of <hi>Mercury,</hi> he being now <hi>Retrograde,</hi> and out of humour. Beſides, <hi>Saturn Squares</hi> the <hi>God<g ref="char:EOLhyphen"/>deſs</hi> they pay their <hi>Devotion</hi> to; ſo that if <hi>Jupiter</hi> does not help with his moſt kind Countenance, I know not what will become of her. He is in a <hi>double-bodied Sign</hi> indeed, and is naturally of a very ſound temper of bo<g ref="char:EOLhyphen"/>dy; ſo that 'tis likely enough he may do the <hi>Harlot</hi> ſome remarkable piece of ſervice.</p>
+               <list>
+                  <item>10. ⚹ ♂ ♀.</item>
+                  <item>12. ☉ in ♎.</item>
+                  <item>☿ R. in ♎.</item>
+                  <item>26. Ϲ ♄ ♀.</item>
+                  <item>21. <g ref="char:trine">△</g> ♃ ♀.</item>
+                  <item>♃ in Ϲ.</item>
+                  <item>♂ in ♌.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="18" facs="tcp:99715:11"/>
+               <head>
+                  <hi>Obſervations on</hi> October. 1680.</head>
+               <p>
+                  <hi>MErcury</hi> is all this Month in <hi>leacherous Signs;</hi> ſo that <hi>Aſtrologers</hi> will be <hi>hot,</hi> though the Wea<g ref="char:EOLhyphen"/>ther be <hi>cold:</hi> But have a care, I warn ye, what ye do, while <hi>Saturn</hi> is in an ill humour. The Old Man has been a long time in a <hi>Paw-Sign,</hi> and is well enough in<g ref="char:EOLhyphen"/>clin'd by this time, but he's apt to be <hi>Envious;</hi> yet being told by one of the wiſeſt of his Admirers, that he ſhall ſhortly enjoy a very pretty Lady, and have more vigour than his Age will allow, he grows extraordina<g ref="char:EOLhyphen"/>ry well pleaſed before the Month is over, and makes a <hi>Trine</hi> to <hi>Mercury:</hi> with a great many thanks. Well, but <hi>Mars</hi> and <hi>Venus,</hi> Lovers, fall out: I wonder at it, becauſe <hi>Venus</hi> is got into <hi>Scorpio,</hi> which ſignifies the main thing that he loves her for, and 'tis one of his <hi>Houſes;</hi> ſo that he's very rude and ill-natur'd, to have no more reſpect for her at ſuch a time, and in ſuch a place. <hi>Mercury</hi> is <hi>Combuſt,</hi> and in <hi>Scorpio</hi> too; ſo that <hi>Aſtrologers</hi> ſhould look to't, that they don't meddle too much with the Girls that come to ask them Queſtions. But 'tis no great matter if they be <hi>bit</hi> by the <hi>Scorpion;</hi> they pretend to have the <hi>Faculty</hi> of <hi>curing</hi> themſelves: For <hi>Culpepper</hi> has made <hi>Phyſitians</hi> of many an <hi>Old Wo<g ref="char:EOLhyphen"/>man,</hi> as well as <hi>Aſtrologers.</hi>
+               </p>
+               <list>
+                  <item>☿ in ♎.</item>
+                  <item>5. Ϲ ♄ ☉.</item>
+                  <item>31. <g ref="char:trine">△</g> ♄ ☿.</item>
+                  <item>24. Ϲ ♂ ♀.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="19" facs="tcp:99715:11"/>
+               <head>
+                  <hi>Obſervations on</hi> November. 1680.</head>
+               <p>
+                  <hi>HEat</hi> and <hi>Cold, Saturn</hi> and the <hi>Sun</hi> are very obli<g ref="char:EOLhyphen"/>ging and Complemental, the beginning of this Month; but I fancy, 'tis only <hi>Courtiers kindneſs,</hi> your <hi>Humble Servant</hi> a thouſand times over, when they hate and deſpiſe you at <hi>Heart.</hi> The <hi>Sun, Venus,</hi> and <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> are all in <hi>Oppoſition</hi> of <hi>Jupiter;</hi> ſo that I can't tell what to think of the <hi>Biſhops.</hi> Three to one's odds, Man, Woman, and Child, ſay you? I wiſh their Lord<g ref="char:EOLhyphen"/>ſhips well in health, and well to paſs. The <hi>Moon</hi> does even the ſame things ſhe uſes to do: Whether ſhe's moſt apt to make the Weather Cold now, or Rainy in <hi>September,</hi> I leave the Learned to conſider. If <hi>Aſtro<g ref="char:EOLhyphen"/>logers,</hi> would believe more in <hi>God,</hi> than they do in her, I ſhould not be ſo <hi>angry</hi> with 'em: but I warrant they'l ſet a <hi>Figure</hi> to find me out; I fear 'em not, <hi>S</hi>— him<g ref="char:EOLhyphen"/>ſelf knew nothing on't, when a man lay with his <hi>Wife.</hi> Let them diſprove my <hi>Obſervations</hi> if they can, I dare vindicate the truth of them by keen dint of Pen, againſt e're a He amongſt. 'em: But then they muſt write <hi>mighty ſoberly,</hi> or elſe they'l hardly tempt me to loſe my time with 'em.</p>
+               <list>
+                  <item>4. <g ref="char:trine">△</g> ♄ ☉.</item>
+                  <item>6. ☍ ♃ ♀.</item>
+                  <item>13. ☍ ♃ ☿.</item>
+                  <item>22. ☍ ♃ ☉.</item>
+               </list>
+            </div>
+            <div type="observations">
+               <pb n="20" facs="tcp:99715:12"/>
+               <head>
+                  <hi>Obſervations on</hi> December. 1680.</head>
+               <p>GEntlemen, ye're very welcome to the laſt Month; in troth I'm a'moſt tired, th' have coſt me a full mornings work, and 'tis not good to ſurfeit. If you are not quite tir'd too, I would tell you a little more News before we depart. <hi>Jupiter</hi> and <hi>Mars</hi> are in their hotteſt loves with <hi>Venus</hi> this coldeſt time o'th' year, but <hi>Saturn</hi> is as <hi>cold</hi> to her as the Weather. 'Tis very likely <hi>Aſtrologers</hi> may get a <hi>Shilling</hi> for a <hi>Figure,</hi> and a <hi>Groat</hi> for an <hi>
+                     <g ref="char:V">Ʋ</g>rinal</hi> upon the <hi>Trine</hi> of <hi>Mars</hi> and <hi>Mercury;</hi> the dire<g ref="char:EOLhyphen"/>ction happens twice this Month, ſo that 'twould be very pro<g ref="char:EOLhyphen"/>bable they would get enough to pay for <hi>Meat, Drink,</hi> and <hi>Lodging,</hi> if <hi>Saturn</hi> did not oppoſe it, as he does twice too. Laſt Month I told you how kind and Ceremonious the <hi>Sun</hi> and <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> were, I told you 'twas but hollow-heartedneſs, for now they are <hi>paſſing</hi> at one another with all the eagerneſs that can be. And now, my dear good Reader, I hope I have diverted thee a little, but ſhall not much concern my ſelf to know too much of thy mind in that point; pleaſe thy ſelf, and thou pleaſeſt me.</p>
+               <list>
+                  <item>1. <g ref="char:trine">△</g> ♂ ♀.</item>
+                  <item>20. <g ref="char:trine">△</g> ♃ ♀.</item>
+                  <item>7. <g ref="char:trine">△</g> ♂ ☿.</item>
+                  <item>18. <g ref="char:trine">△</g> ♂ ☿.</item>
+                  <item>12. ☍ ♄ ☿.</item>
+                  <item>18. ☍ ♄ ☿.</item>
+                  <item>29. ☍ ♄ ☉.</item>
+               </list>
+               <epigraph>
+                  <q>
+                     <l>THe Stars, Ethereal Bard, to thee Shine clear,</l>
+                     <l>And all our future Fates thou mak'ſt appear.</l>
+                     <l>But that thy Wife is Common all men know,</l>
+                     <l>Yet what all ſee, there's not a Star doth ſhow.</l>
+                     <l>
+                        <hi>Saturn</hi> is blind, or ſome long Journey gone,</l>
+                     <l>Not able to diſcern an Infant from a Stone.</l>
+                     <l>The <hi>Moon</hi> is fair, and as ſhe's fair, ſhe's Chaſt,</l>
+                     <l>And wo'nt behold thy Wife ſo lewdly embrac't.</l>
+                     <l>
+                        <hi>Europa Jov<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, Mars Venus,</hi> ſhe <hi>Mars</hi> Courts;</l>
+                     <l>With <hi>Daphne Sol,</hi> with <hi>Hirce Hermes</hi> ſports.</l>
+                     <l>Thus while the <hi>Stars</hi> their wanton Love purſue,</l>
+                     <l>No wonder, Cuckold, they'l not tell thee true.</l>
+                  </q>
+                  <bibl>More's Epigram.</bibl>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
